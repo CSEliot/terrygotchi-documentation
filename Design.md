@@ -23,7 +23,7 @@ Terrygotchi evolve and as they do, become easier to care for. If their Hunger or
    
 
 # Key Feeling:
-Keep the feeling of something that must be maintained and cared for with an amount of 'friction' that holds you back from the feelings of cuteness for the majority of the time.
+Keep the feeling of something that must be maintained and cared for with an amount of 'friction' that gives JUST enough character to give the terrygotchi personality. Such that the "cute!!" moments are infrequent, and therefor more valuable.
 
 # Section 1 — Essential Core Mechanics (the moment-to-moment loop):
 1. Feed:
