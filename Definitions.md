@@ -1,0 +1,11 @@
+Server = The player that hosted.
+Session = A running instance of the game. The host is also the server as this game is configured. No dedicated server.
+Host =  The creator of the session.
+Client = Any who isn't the host that is also connected to the session.
+Player = Everyone participating in the game that also has the "Player Mode" enabled. This includes those who've connected via the S&Box game client and also those who've paired w a Terrygotchi via Twitch chat channel command. Anyone can toggle Player 
+Viewing Modes = The game has 2 main viewing modes that impact how the player interacts with the world. Game Mode and Twitch Mode. These do not directly impact the running session and primarily toggle the following: Which Camera is enabled (InGame Camera or Twitch Camera) and 
+Items = Consumeables? Droppables? Hmmmm ... todo: need to decide this - ecs 
+Age = How old a Terrygotchi is in seconds.
+Evolution = The stage a Terrygotchi is in: Sausage, Baby, Child, Tama, Adult or Sage. Sages are an alternative to Adults.
+Stage = A Stage of Evolution, there are 5 main stages, many final Adult stages, and some special Sage stage alternatives. 
+Evolving = When the age of a Terrygotchi hits a certain amount, they go up a stage in evolution. Unless the Terrygotchi is an Adult or Sage.
